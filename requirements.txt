@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+pdfminer.six
+unstructured[local-inference]
+pillow-heif
